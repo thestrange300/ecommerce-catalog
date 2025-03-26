@@ -51,7 +51,7 @@ https://fakestoreapi.com/products/{index}
 ## 📜 Installation & Setup
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/ecommerce-catalog.git
+git clone https://github.com/thestrange300/ecommerce-catalog.git
 cd ecommerce-catalog
 ```
 2. **Install dependencies**
